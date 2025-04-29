@@ -1,1 +1,1 @@
-##Projects & Assignments in TinyML
+**Projects & Assignments in TinyML**
